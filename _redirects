@@ -1,0 +1,12 @@
+# for root
+/*                      /index.html                 200
+​
+# for the rest
+/about/*                /about.html                 200
+/contact/*              /contact.html               200
+/our-offerings/*        /our-offerings.html         200
+/unique-deliverables/*  /unique-deliverables.html   200
+/work-methodology/*     /work-methodology.html      200
+/our-customers/*        /our-customers.html         200
+/benefits-of-rainwater-harvesting/*         /benefits-of-rainwater-harvesting.html         200
+/rainwater-harvesting-the-concept/*         /rainwater-harvesting-the-concept.html         200
