@@ -2766,6 +2766,95 @@ img.testimonial-thumb {
   }
 }
 
+.main-container.our-offerings {
+  padding-top: 20px;
+}
+
+.main-container.our-offerings h2 {
+  margin-top: 40px;
+}
+
+.main-container.our-offerings h3 {
+  margin: 0;
+  margin-top: 25px;
+}
+
+.main-container.our-offerings h4 {
+  margin: 0;
+  margin-top: 20px;
+}
+
+.main-container.our-offerings p {
+  margin: 0;
+}
+
+.main-container.our-offerings p + p {
+  margin-top: 8px;
+}
+
+.main-container.our-offerings .steps {
+  margin-top: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.main-container.our-offerings .steps .step {
+  margin-bottom: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 40px;
+}
+
+.main-container.our-offerings .steps .step .step-title {
+  background-color: #59BDBB;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+.main-container.our-offerings .steps .step img {
+  max-width: 450px;
+  width: 100%;
+  z-index: 2;
+  /* border: 10px solid $color-primary;
+        box-sizing: content-box;
+        border-radius: 5px; */
+}
+
+.main-container.our-offerings .steps .arrow {
+  background: url("/images/icon-image/down-arrow.png") no-repeat;
+  height: 64px;
+  width: 64px;
+  background-size: contain;
+  margin-bottom: 30px;
+}
+
 .main-container .customers.row {
   border-top: 1px solid #444;
   border-left: 1px solid #444;
